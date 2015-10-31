@@ -1,14 +1,17 @@
 # testRepo
 test repo for learning
 
-change 2
+#Hello World
 
-<<<<<<< HEAD
+eat me
+
+drink me
+
 push me
 
 #pull me
-=======
+
 Hit me
 
 hug me
->>>>>>> master
+
