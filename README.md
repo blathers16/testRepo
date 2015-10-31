@@ -6,3 +6,12 @@ test repo for learning
 eat me
 
 drink me
+
+push me
+
+#pull me
+
+Hit me
+
+hug me
+
